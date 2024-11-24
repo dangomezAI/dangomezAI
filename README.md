@@ -11,9 +11,7 @@
 
 My <a href="https://dangomez.pro">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
 
-- 🗺️ My present graduate studies is in Molecular and Cellular Atlases, Spatially Resolved Transcriptomics. Single-Cell RNA Sequencing, Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
-
-- Currently, I am doing my thesis research in exerkine mapping in preclinical models and the human body, exercise and physical activity, multiomics, interorgan communication, signal transduction networks, and building multiscale spatial atlases of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connect cell-cell interactions with ligand-receptor interactions and their functions inside the cell that display the effect of exerkines measured in health, resilience and disease.
+- 🗺️ My present graduate studies is in Molecular and Cellular Atlases, Spatially Resolved Transcriptomics. Single-Cell RNA Sequencing, Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology. Currently, I am doing my thesis research in mapping exerkines in spatially resolved multiomics in preclinical models and the human body, exercise and physical activity, multiomics, interorgan communication, signal transduction networks, and building multiscale single-cell spatial profiles of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connect cell-cell interactions with ligand-receptor pairs and their functions inside the cell that display the effect of exerkines measured in health, resilience and disease.
 
 You can access and read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
 
@@ -50,7 +48,14 @@ Technique Interests:
 
 ### Skills
 - Data Science and Cloud Computing of Precision Medicine
+- Cloud computing
 - Bioinformatics
+- AI/ML
+- Supervised Learning
+- Unsupervised Learning
+- Neural Networks
+- Deep Learning
+- Large Language Models (LLMs)
 - Data Analysis and Data Visualization
 - Algorithm Development
 - Computational Biology
@@ -59,27 +64,24 @@ Technique Interests:
 - Sequence analysis
 - DNA isolation
 - Phylogenetics
-- Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
-- Machine Learning & Generative AI
-- Deep Learning, Reinforcement Learning
+- Tissue (in situ) experiments (H&E, immunohistochemistry, in situ hybridization)
+- Reinforcement Learning
 - Processing large data sets
-- Neural networks
 - Big Data and Omics
 - Single-cell multiomics and Spatial omics research
-
+- Digital pathology
+  
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- Principal Advisor/Investigator
 - Biomedical Data Scientist
-- Postdoctoral Fellow
-- PhD Researcher
-- Scientist I/II
+- Research Data Analyst
+- Lab Manager
+- Professional Scientist
 - Research Associate
 
 ## Hobbies
-- Working out (resistance training, cardiovascular exercise)
+- Exercising (resistance training, cardiovascular exercise, functional strength and circuit training)
 - Hiking, Cycling, and Climbing
 - Reading, Listening to Audiobooks and Podcasts
 - Music and Movies
    
 </html>
-
