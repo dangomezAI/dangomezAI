@@ -6,7 +6,7 @@
 - 💞️ I’m doing research and development, and analytics in basic and translational research for multiple consortia MoTrPAC, HuBMAP, HTAN, PsychENCODE, and All of Us Researchers.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, violin, and did academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
+- ⚡ Fun fact: I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, 1st violin, 2nd violin, and did academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
 
 
 My <a href="https://dangomez.pro">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
