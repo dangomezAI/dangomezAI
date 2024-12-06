@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel Gomez, a visionary 👨‍🔬 Molecular Biologist, Computational Biologist and Engineer 👨‍💻!
+### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Molecular Biologist, Computational Biologist and Engineer 👨‍💻!
 
 - 👋 Hi, I’m Daniel J. Gomez, a graduate researcher at Stanford University School of Medicine.
 - 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial immunotherapy, precision medicine, and evidence-based medicine.
