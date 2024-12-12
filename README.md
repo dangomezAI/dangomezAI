@@ -34,6 +34,7 @@ Research:
 
 Technique Interests:
 - Genomics, Transcriptomics, Proteomics, Metabolomics (multiomics)
+- Single-cell Imaging
 - Structural Variations and Predictions
 - Systems Biology and Applications 
 - Biological Modeling and Evaluation, Drug Development
