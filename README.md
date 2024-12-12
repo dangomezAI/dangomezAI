@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Daniel J. Gomez, a graduate researcher at Stanford University School of Medicine.
 - 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial immunotherapy, precision medicine, and evidence-based medicine.
 - 🌱 I’m currently learning computational cancer genetics, exercise immunology, and multimodal spatial and big data omics approaches.
-- 💞️ I’m doing research and development, and analytics in basic and translational research for multiple consortia MoTrPAC, HuBMAP, HTAN, PsychENCODE, and All of Us Researchers.
+- 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, 1st violin, 2nd violin, and did academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
