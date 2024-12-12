@@ -33,14 +33,13 @@ Research:
 - Cellular Physiology Contextualization 
 
 Technique Interests:
-- Genomics and Proteomics, Metabolomics (multiomics), Structural Variations and Predictions
+- Genomics, Transcriptomics, Proteomics, Metabolomics (multiomics)
+- Structural Variations and Predictions
 - Systems Biology and Applications 
 - Biological Modeling and Evaluation, Drug Development
-- Data visualization, Data analysis, Data mining
+- Data visualization, Data analytics, Clinical Data Mining
 - Biological and Disease Modeling (AI/ML/DL)
-- Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
-- Neurotherapeutics and Nanotherapeutics discovery
-- Morphology and imaging (histology, whole slide imaging, multiplexing)
+- Imaging and Microscopy (histology, whole slide imaging, multiplexing)
 
 
 #### X: [@danielgomezsci](https://x.com/dan_j_gomez) 
@@ -79,7 +78,7 @@ Technique Interests:
 - Research Associate
 
 ## Hobbies
-- Exercising (resistance training, cardiovascular exercise, functional strength and circuit training)
+- Exercising (resistance training, cardiovascular exercise (running, etc.), functional strength and circuit training)
 - Hiking, Cycling, and Climbing
 - Reading, Listening to Audiobooks and Podcasts
 - Music and Movies
