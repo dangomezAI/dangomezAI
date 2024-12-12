@@ -1,8 +1,8 @@
 ### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Molecular Biologist, Computational Biologist and Engineer 👨‍💻!
 
 - 👋 Hi, I’m Daniel J. Gomez, a graduate researcher at Stanford University School of Medicine.
-- 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial immunotherapy, precision medicine, and evidence-based medicine.
-- 🌱 I’m currently learning computational cancer genetics, exercise immunology, and multimodal spatial and big data omics approaches.
+- 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, precision medicine, and evidence-based medicine.
+- 🌱 I’m currently learning computational cancer genetics, exercise immunology, and multimodal and big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
