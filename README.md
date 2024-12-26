@@ -4,7 +4,7 @@
 - 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, precision medicine, and evidence-based medicine.
 - 🌱 I’m currently learning computational cancer genetics, exercise immunology, and multimodal and big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
-- 📫 How to reach me sfdanielgomez@gmail.com
+- 📫 How to reach me finddangomez@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, 1st violin, 2nd violin, and did academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
 
