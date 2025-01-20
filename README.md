@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Molecular Biologist and Bioscience Engineer 👨‍💻!
+### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Molecular Cell Biologist and Bioscience Engineer 👨‍💻!
 
 - 👋 Hi, I’m Daniel Joseph Gomez, a graduate researcher at Stanford University School of Medicine.
 - 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, precision medicine, and evidence-based medicine.
