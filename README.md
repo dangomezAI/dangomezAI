@@ -4,7 +4,7 @@
 - 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, precision medicine, and evidence-based medicine.
 - 🌱 I’m currently learning computational cancer genetics, exercise immunology, and multimodal and big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
-- 📫 How to reach me finddangomez@gmail.com
+- 📫 How to reach me gomezscientist0@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: I've authored scientific publications, designed lights for over 20 productions across U.S. cities, universities in multiple states in the USA and hoping to do more. I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, 1st violin, 2nd violin, and did state-of-the-art academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
 
@@ -43,7 +43,7 @@ Technique Interests:
 - Imaging and Microscopy (histology, whole slide imaging, multiplexing)
 
 
-#### X: [@dan_o_gomez](https://x.com/dan_j_gomez) 
+#### X: [@gomez_omics](https://x.com/gomez_omics) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 
 ### Skills
