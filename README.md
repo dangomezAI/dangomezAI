@@ -6,7 +6,7 @@
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
 - 📫 How to reach me gomezscientist0@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun facts: I've authored scientific publications, designed lights for over 20 productions across U.S. cities, universities in multiple states in the USA and hoping to do more. I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, 1st violin, 2nd violin, and did state-of-the-art academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
+- ⚡ Fun facts: I've authored several scientific publications, designed lights for over 20 productions across U.S. cities, universities in multiple states in the USA and hoping to do more. I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played piano, clarinet, saxophone, guitar, 1st violin, 2nd violin, and did state-of-the-art academic research in 6 different medical schools and 1 veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, DUCOM, UFCVM).
 
 
 My <a href="https://danieljosephgomez.com">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
