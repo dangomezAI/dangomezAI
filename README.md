@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Daniel Joseph Gomez, a graduate researcher at Stanford University School of Medicine.
 - 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, precision medicine, and evidence-based medicine.
-- 🌱 I’m currently learning computational cancer genetics, exercise immunology, and multimodal and big data omics approaches.
+- 🌱 I’m currently learning exercise immunology, computational cancer systems biology, and multimodal analysis as well as big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
 - 📫 How to reach me gomezscientist0@gmail.com
 - 😄 Pronouns: he/him/his
