@@ -43,7 +43,7 @@ Technique Interests:
 - Imaging and Microscopy (histology, whole slide imaging, multiplexing)
 
 
-#### X: [@danieljgomezsci](https://x.com/danieljgomezscissssssssssssssssssssssssssss) 
+#### X: [@danthegomez](https://x.com/danthegomez) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 
 ### Skills
