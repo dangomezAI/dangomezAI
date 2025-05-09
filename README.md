@@ -1,12 +1,17 @@
 ### Hello ✨ I am Daniel Gomez, an innovative 👨‍🔬 Molecular Cell Biologist and Bioscience Engineer 👨‍💻!
 
-- 👋 Hi, I’m Daniel J. Gomez, a graduate researcher at Stanford University School of Medicine, and graduate student California State University, East Bay.
-- 👀 I’m interested in genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, spatial transcriptomics, P4 medicine, and evidence-based medicine.
+- 👋 Hi, I’m Daniel J. Gomez, a graduate student researcher at Stanford University School of Medicine and California State University, East Bay.
+- 👀 I’m interested in biomedical translational research, genetics, genomics, bioinformatics, exercise immunology, computational/systems cancer biology, spatial proteomics, spatial transcriptomics, precision and evidence-based medicine.
 - 🌱 I’m currently learning exercise immunology, computational cancer systems biology, and multimodal analysis as well as big data omics approaches.
 - 💞️ I’m doing research, development, and analytics in basic science and translational biomedical research for multiple consortia MoTrPAC, HCA, HuBMAP, and HTAN.
-- 📫 How to reach me gomezscientist0@gmail.com
+- 📫 How to reach me danielgomez.sc@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun facts: I've authored several scientific publications, presented to global audiences, designed lights for over 20 productions across U.S. cities, universities in multiple states in the USA and hoping to do more. I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played multiple instruments: piano, clarinet, saxophone, guitar, 2nd violin, 1st violin, and studied technical theater. I've also stayed consistent in doing state-of-the-art academic biomedical research in six different medical schools and one veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM). I also love collaborating with other innovative institutions and companies! 
+- ⚡ Fun facts: I've authored several scientific peer-reviewed publications, and presented to global audiences.
+- I won 1st, 2nd, and 3rd place in grappling/jiu-jitsu competitions, and played other sports including basketball, soccer, football, and volleyball.
+- I've also did lighting design for over 20 productions across U.S. cities, universities in multiple states in the USA.
+- I've played multiple musical instruments: piano, clarinet, saxophone, guitar, 2nd violin, made 1st violin, and played orchestra internationally.
+- I've also stayed consistent in doing state-of-the-art academic biomedical research  in six different medical schools and one veterinary medical college (Stanford Medicine, JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM) and industry-level methods.
+- I also love collaborating with other innovative academic institutions and companies! 
 
 
 My <a href="https://djgomez.org">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
